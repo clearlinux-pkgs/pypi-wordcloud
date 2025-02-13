@@ -7,7 +7,7 @@
 #
 Name     : pypi-wordcloud
 Version  : 1.9.3
-Release  : 5
+Release  : 6
 URL      : https://files.pythonhosted.org/packages/7c/60/5f927145b65de0f299079db846c89fa031d56e4df9764607add12a03714e/wordcloud-1.9.3.tar.gz
 Source0  : https://files.pythonhosted.org/packages/7c/60/5f927145b65de0f299079db846c89fa031d56e4df9764607add12a03714e/wordcloud-1.9.3.tar.gz
 Summary  : A little word cloud generator
